@@ -1,4 +1,6 @@
 # relay-note57
+<img width="500" height="500" alt="E3BA228E-9E5C-4AD3-B0CF-E0EB71F55017" src="https://github.com/user-attachments/assets/86fbe5ed-d11d-4e4a-a6c9-fa742057577d" />
+
 # 문제의식
 
 건강을 버리면서 학습에 참여하는 것이 옳은가?
@@ -12,6 +14,8 @@
 지속 가능한 성장과 학습
   
 # 퀘스트
+<img width="409" height="141" alt="15523A05-4EC3-4AD1-9D7D-CEBD6C590085" src="https://github.com/user-attachments/assets/c18b1610-b5ba-4cba-9aa7-264e766c483d" />
+
 - 멘탈 : 본인이 AI에게 했던 질문 또 하기 막기.
     - 의도 : AI를 성장에 사용하는 것이 중요하다. 성장에 관한 불필요한 의심을 막는 것.
 - 수면 : 취침 시간을 AI에게 제공하고 오늘의 취침 시간대를 추천받아 이행하도록 노력해보세요.
