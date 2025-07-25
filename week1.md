@@ -372,3 +372,62 @@ Whisk
 - J102_민인애
     - 수행할 퀘스트: 근골격계 퀘스트
     - 정한 이유: 매일 앉아있는 시간이 많아서 근골격계 퀘스트를 통해 매일 조금이라도 운동하는 시간을 만들어보려고 합니다.
+
+# 퀘스트 수행 결과
+## 명진
+
+<img width="681" height="535" alt="image" src="https://github.com/user-attachments/assets/3a8130ab-aec2-4aa2-8fee-2099c7aa131f" />
+<img width="684" height="601" alt="image" src="https://github.com/user-attachments/assets/6d496e62-fb77-403c-ae75-c73cf598593d" />
+<img width="692" height="728" alt="image" src="https://github.com/user-attachments/assets/0052684e-f088-44e4-88fc-18bb6b13fd8c" />
+<img width="677" height="272" alt="image" src="https://github.com/user-attachments/assets/bfdc4e51-e1f8-4081-9ff9-aa55022027f6" />
+<img width="677" height="253" alt="image" src="https://github.com/user-attachments/assets/3feba260-c341-44b1-8195-1b0ba31e249c" />
+<img width="686" height="700" alt="image" src="https://github.com/user-attachments/assets/0a56ab51-650f-4961-8130-2c294eef450a" />
+<img width="677" height="211" alt="image" src="https://github.com/user-attachments/assets/961b01a0-b85d-42d4-8a6a-25d82256fdb9" />
+
+- 쥐피티에서 알림기능은 o3 버전 이상으로 설정해야지 준다.. 그냥 기본 모델과 싸웠던 나는 뭐.. ai가 못하는 건줄~ 스트레칭 내용은 좋았다
+
+## 동호
+
+<img width="2048" height="1047" alt="image" src="https://github.com/user-attachments/assets/013a7fef-ec17-41aa-bc5f-4aa026db268f" />
+
+- AI에게 식단을 추천 받기 위해서 질문도 잘 해야한다는 것을 깨달았습니다 (?)
+
+## 인애
+
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/b5250856-c9eb-4be6-ae18-9b15d9a88410" />
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/63b7e465-8bc2-4d72-86d6-a3eb4f0e1f1d" />
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/04759d7f-206c-4625-a525-3a7bbd2632bf" />
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/899bec2a-d507-4f59-95b5-856b90c545ac" />
+
+- AI가 개인 맞춤형 운동을 추천해주니 동기부여가 되었고, 일관된 루틴 관리가 편리했지만, 실제 몸의 반응이나 컨디션은 스스로 판단해야 한다는 걸 깨달았습니다.
+
+## 성호
+
+**프롬프트**
+
+```
+지금까지 작성된 이번 대화 내용을 바탕으로 N개 이하의 주요 키워드와, 대화 내용을 요약한 한 문장의 짧은 명사로 끝나는 개조식 문장을 작성해줘.
+```
+
+**실행 예시**
+
+```
+**주요 키워드:**
+1. JavaScript
+2. 고차 함수 (Higher-Order Function)
+3. 함수 (Function)
+4. 클로저 (Closure)
+5. 함수 선언식과 표현식
+6. 화살표 함수 (Arrow Function)
+7. 커링 (Currying)
+8. 함수 인자와 반환
+9. 렉시컬 환경
+10. 코드 재사용성과 가독성
+
+**주제문:**  
+JavaScript의 고차 함수와 클로저 개념을 정의하고, 다양한 예시와 함께 함수 선언 방식, 클로저의 스코프 기억 메커니즘, 그리고 화살표 함수를 통한 축약 표현 방법을 차근차근 설명하는 데 중점을 두었다.
+```
+
+**미션 수행 후 얻은 인사이트**
+
+각 대화가 격리되어 있다 보니 AI가 질문의 중복성을 판단하게 하는 것이 어려웠다. 결국 AI가 요약한 대화 내용을 직접 수집하고 관리해서, 나중에 검색을 수행하는 식으로 수행했는데 더 좋은 방법을 찾아봐야 할 것 같다.
